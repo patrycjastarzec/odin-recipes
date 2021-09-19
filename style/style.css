@@ -1,0 +1,42 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  padding-bottom: 10px;
+}
+
+/* MARGINS */
+h1,
+h2,
+h3,
+p {
+  margin: 15px 25px 15px 25px;
+}
+
+ul, 
+ol {
+  margin-left: 45px;
+}
+
+img{
+  margin-left: 25px;
+}
+
+/*POSITION */
+
+h1.main,
+h2.main {
+  text-align: center;
+}
+
+div.list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
