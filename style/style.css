@@ -25,6 +25,10 @@ img{
   margin-left: 25px;
 }
 
+a.credits{
+  margin-left: 25px;
+}
+
 /*POSITION */
 
 h1.main,
@@ -73,4 +77,10 @@ li {
 p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
+}
+
+a.credits{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  color: rgb(122, 122, 122);
 }
